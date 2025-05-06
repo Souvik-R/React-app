@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "React js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souvik-R/React-app.git"
+  },
+  "author": "Souvik Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souvik-R/React-app/issues"
+  },
+  "homepage": "https://github.com/Souvik-R/React-app#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
